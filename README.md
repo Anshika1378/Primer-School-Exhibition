@@ -35,5 +35,6 @@ This project follows **semantic HTML5 standards** to improve accessibility and S
 
 ---
 
-## 📂 Folder Structure
+## Author
+Anshika Agarwal
 
