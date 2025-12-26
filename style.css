@@ -813,7 +813,7 @@ img {
 /* extra small */
 @media (max-width: 420px) {
     .footer-container {
-         grid-template-columns: 1fr 1fr;
+         grid-template-columns: 1fr ;
        
     }
 }
